@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @santosh
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently looking for React js job
+- 🎸 I like listening music
 - 📫 How to reach me santoshkumar321b@gmail.com
 
 <!---
